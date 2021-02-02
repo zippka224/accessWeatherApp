@@ -1,4 +1,4 @@
-# accessWeatherApp
+# WeatherApp - Microsoft Access
 Jednostavna aplikacija napravljena za potrebe kolegija Baze podataka 
 
 Glavno sučelje i baza podataka implementirana je u Microsoft Access alatu.
